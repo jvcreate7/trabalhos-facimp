@@ -2,7 +2,7 @@
 
 // Desafio Super Trunfo - Países
 // Nível: Mestre (Avançado)
-// Aluno: [Seu Nome Aqui]
+
 
 int main() {
     // --- Variáveis Carta 1 ---
@@ -179,9 +179,7 @@ int main() {
     }
 
 
-    // ============================================================
-    // ETAPA 3: COMPARAÇÕES E RESULTADOS
-    // ============================================================
+    
 
     printf("\n--------------------------------------------------\n");
     printf("RESULTADO DA BATALHA: %s vs %s\n", nomeCidade1, nomeCidade2);
